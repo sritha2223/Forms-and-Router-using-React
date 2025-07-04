@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Forms-and-Router-using-React/static/css/main.dd4c64ea.css",
+    "main.js": "/Forms-and-Router-using-React/static/js/main.ed0bac6c.js",
+    "static/js/453.fde210dd.chunk.js": "/Forms-and-Router-using-React/static/js/453.fde210dd.chunk.js",
+    "index.html": "/Forms-and-Router-using-React/index.html",
+    "main.dd4c64ea.css.map": "/Forms-and-Router-using-React/static/css/main.dd4c64ea.css.map",
+    "main.ed0bac6c.js.map": "/Forms-and-Router-using-React/static/js/main.ed0bac6c.js.map",
+    "453.fde210dd.chunk.js.map": "/Forms-and-Router-using-React/static/js/453.fde210dd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd4c64ea.css",
+    "static/js/main.ed0bac6c.js"
+  ]
+}
